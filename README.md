@@ -17,4 +17,4 @@ PowerBi dashboard
 
 - Description: Building a daily dashboard about bank loans and deposits.
 - Technologies used: Excel, PowerBi
-- Project dashboard: 
+- Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDVkMTRkMWQtYzZiYy00ZWUwLThkMDMtYTVhYWNlMmYwZjI5IiwidCI6IjZjYzNkNjRlLTlmMzgtNDhiNy1hYzhlLWE3ODIzZWYwNmJjMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection
