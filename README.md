@@ -15,6 +15,6 @@ PowerBi dashboard
 
 **Project 3: Bank's daily report**
 
-- Description: Building a daily dashboard about bank loans and deposits.
+- Description: Build a daily dashboard of loans and bank deposits.
 - Technologies used: Excel, PowerBi
 - Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDVkMTRkMWQtYzZiYy00ZWUwLThkMDMtYTVhYWNlMmYwZjI5IiwidCI6IjZjYzNkNjRlLTlmMzgtNDhiNy1hYzhlLWE3ODIzZWYwNmJjMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection
