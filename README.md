@@ -5,16 +5,10 @@ PowerBi dashboard
 
 - Description: Bike rental company data for analysis and visualization, analyzing user behavior
 - Technologies used: Python, Excel, PowerBi
-- Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzY0ZGFmOTctZDI5Yi00NjZmLTg4ODktNTkyODg5NmU1Njk0IiwidCI6IjZjYzNkNjRlLTlmMzgtNDhiNy1hYzhlLWE3ODIzZWYwNmJjMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection2f741fe687ea3e6c0242
+- Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDAwMzQ2MjUtMjVhNC00YjI3LWE3ZDEtNTE2YzU3MDVjMWZhIiwidCI6Ijg3NmRmNzY0LWE2ODEtNGMzZS04ZDgzLTY4MDgyZDdjZDU3ZiIsImMiOjEwfQ%3D%3D
 
-**Project 2: Customer analysis**
-
-- Description: Analysis of monthly customer data of an online teaching company.
-- Technologies used: Python, Excel, SQL, PowerBi
-- Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDM2NDllMTYtZTNhMy00MWJjLWJkMTgtMjY4YTAwYWU3OGM5IiwidCI6IjZjYzNkNjRlLTlmMzgtNDhiNy1hYzhlLWE3ODIzZWYwNmJjMCIsImMiOjEwfQ%3D%3D
-
-**Project 3: Bank's daily report**
+**Project 2: Bank's daily report**
 
 - Description: Build a daily dashboard of loans and bank deposits.
 - Technologies used: Excel, PowerBi
-- Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDVkMTRkMWQtYzZiYy00ZWUwLThkMDMtYTVhYWNlMmYwZjI5IiwidCI6IjZjYzNkNjRlLTlmMzgtNDhiNy1hYzhlLWE3ODIzZWYwNmJjMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection
+- Project dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTRkZmU5ZjgtOTI4ZC00OTJhLWJlY2QtYjI5ODFkODQ4NWI1IiwidCI6Ijg3NmRmNzY0LWE2ODEtNGMzZS04ZDgzLTY4MDgyZDdjZDU3ZiIsImMiOjEwfQ%3D%3D&pageName=ReportSection
